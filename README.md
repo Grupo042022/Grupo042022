@@ -5,7 +5,14 @@
 <div align="center">
 
   <img  width="400" src="https://github.com/Grupo042022/Grupo042022/blob/main/name.svg" alt="Projeto Integrado," />
-  <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif"  alt=" Grupo04 os integrantes do grupo são :Ana Elisa,Júlia,Ian,Lucas Couto,Guilherme Carlos,e Guilherme Kallas"/>
+  
+  <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif"  alt=" Grupo04 os integrantes do grupo são :
+                                                                                                               Ana Elisa,
+                                                                                                               Júlia,
+                                                                                                               Ian,
+                                                                                                               Lucas Couto,
+                                                                                                               Guilherme Carlos,
+                                                                                                               e Guilherme Kallas"/>
   
 
 
