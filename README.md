@@ -5,7 +5,7 @@
 <div align="center">
 
   <img  width="400" src="https://github.com/Grupo042022/Grupo042022/blob/main/name.svg" alt="Projeto Integrado, Grupo04" />
-  <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif" alt="Projeto Integrado, Grupo04" />
+  <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif" />
   
 
 
@@ -51,27 +51,10 @@ Here are some ideas to get you started:
   
   <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
 Social Networking </h1>
-  
-   
-  <a href="https://www.youtube.com/channel/UCPhZgWJGIMvDvdOb0eDhk1w" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-  
-</p>
-  
-
-  
+ 
 <h1 align="center">                                                                                                                                                       
 💻 Studies and Technologies </h1>
   
-  <p align="center" style="background:yellow">
- <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
- <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-   <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-   <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-   <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-   <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-   <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
   </p>
 <h1 align="center">👨🏼‍💻 Some Projects</h1>
