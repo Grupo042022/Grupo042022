@@ -6,7 +6,7 @@
 
   <img  width="400" src="https://github.com/Grupo042022/Grupo042022/blob/main/name.svg" alt="Projeto Integrado," />
   
-  <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif"  alt=" Grupo04 os integrantes do grupo são :
+  <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif"  alt=" Grupo04 os integrantes são :
                                                                                                                Ana Elisa,
                                                                                                                Júlia,
                                                                                                                Ian,
