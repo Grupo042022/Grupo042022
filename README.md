@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img  width="400" src="https://github.com/Grupo042022/Grupo042022/blob/main/name.svg" alt="Projeto Integrado, Grupo04" />
+  <img  width="400" src="https://github.com/Grupo042022/Grupo042022/blob/main/name.svg" alt="Projeto Integrado," />
   <img   width="450" src="https://github.com/Grupo042022/Grupo042022/blob/main/imagem%20programando.gif"  alt=" Grupo04"/>
   
 
