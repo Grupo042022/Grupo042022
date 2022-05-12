@@ -1,18 +1,18 @@
-# <div align="center">😄Hi welcome to team 04 github! 😄
+# <div align="center">😄Hi welcome to Grupo 04 GitHub! 😄
 
 
 
 <div align="center">
 
-  Projeto Integrado.
+  Projeto Integrado
   
-   Grupo04 os integrantes são :
+   Integrantes:
                                 Ana Elisa,
-                                Júlia,
-                                Ian,
-                                Lucas Couto,
                                 Guilherme Carlos,
-                                e Guilherme Kallas
+                                Guilherme Kallas,
+                                Ian,
+                                Júlia,
+                                e Lucas
   
 
 <!--
