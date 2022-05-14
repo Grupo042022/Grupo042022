@@ -1,10 +1,10 @@
-# <div align="center">😄 Hi, welcome to Team 04's GitHub! 😄
+# <div align="center">  <img src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-de-fogo-azul-1.gif" alt="Image" height="60" width="60" > Hi, welcome to Team 04's GitHub!   <img src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-de-fogo-azul-1.gif" alt="Image" height="60" width="60" >
 
 
 
 <div align="center">
 
-   𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐝𝐨
+ 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐝𝐨
   
 
 <!--
